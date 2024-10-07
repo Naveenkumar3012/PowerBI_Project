@@ -53,9 +53,9 @@ This Power BI project analyzes a coffee shop's sales performance to reveal key i
 
 ## Report 
 
-![](https://github.com/Naveenkumar3012/PowerBI_Project/blob/main/Coffee%20Shop%20Sales.xlsx](https://github.com/Naveenkumar3012/PowerBI_Project/blob/main/Coffee%20sales%20Report.pdf)
+![](https://github.com/Naveenkumar3012/PowerBI_Project/blob/main/Coffee%20sales%20Report.pdf)
 
-For more details about DAX Calculations: Download and open this (https://github.com/Naveenkumar3012/PowerBI_Project/blob/main/Coffee_sales_Report.pbix)file in PowerBI.
+For more details about DAX Calculations: Download and open this file in PowerBI. (https://github.com/Naveenkumar3012/PowerBI_Project/blob/main/Coffee_sales_Report.pbix)
 
 ## Findings and Conclusion
 
