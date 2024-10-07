@@ -50,3 +50,21 @@ This Power BI project analyzes a coffee shop's sales performance to reveal key i
 ## Dataset
 
 **Dataset Link:** [Coffee Sales Dataset](https://github.com/Naveenkumar3012/PowerBI_Project/blob/main/Coffee%20Shop%20Sales.xlsx)
+
+## Report 
+
+![](https://github.com/Naveenkumar3012/PowerBI_Project/blob/main/Coffee%20Shop%20Sales.xlsx](https://github.com/Naveenkumar3012/PowerBI_Project/blob/main/Coffee%20sales%20Report.pdf)
+
+For more details about DAX Calculations: Download and open this (https://github.com/Naveenkumar3012/PowerBI_Project/blob/main/Coffee_sales_Report.pbix)file in PowerBI.
+
+## Findings and Conclusion
+
+The Power BI report provides comprehensive insights into key sales metrics, enabling data-driven decision-making. Through detailed analysis of total sales, orders, and quantity sold, the report offers a clear understanding of monthly trends and highlights changes in performance with month-over-month comparisons. The interactive calendar heat map, dynamic slicers, and tooltips enhance usability, allowing users to drill down into daily performance and identify peak sales periods.
+
+The segmentation of sales by weekdays and weekends offers valuable insights into behavioral patterns, while the analysis by store location and product category helps identify top-performing areas and products. The daily sales trend chart, augmented with an average sales line, highlights exceptional sales days, providing a quick reference for assessing daily performance. Furthermore, the top 10 products by sales feature allows for the quick identification of best-sellers.
+
+Overall, this report empowers business stakeholders with a holistic view of sales performance, supporting strategic decisions to optimize operations, inventory, and marketing efforts.
+
+Thank You for Visiting
+
+
